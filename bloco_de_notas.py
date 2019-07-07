@@ -15,7 +15,7 @@ def bloco_notas():
         print('\n\t Nenhuma nota foi encontrada.'
               '\n\t Crie um nova pra operar. '
               '\n\t No menu a seguir escolhe opcao CREATE \n')
-        t.sleep(5)
+        t.sleep(4)
         opcao = bnobj.menu_create()
         if opcao is 1:  # 1 -> create a note
             bnobj.oper_info(1, 'obama')
