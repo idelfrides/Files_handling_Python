@@ -1,17 +1,17 @@
-# Files_handling_Python: Files handling in python 3.6.2
+# Files handling in python 3.6.2
 
 
 ### The Project
-This is an app created to work with files in Python 3.
+This is project created to work with files in Python 3.
 
 
-The App use **OOP**  and  has two files: 'BlocoDeNotas.py' that has one Class with the same name, 
+The App use **OOP**  and  **Microserce Architecture** has two files: **BlocoDeNotas.py** that has one Class with the same name, 
 the class contain many methods used to build this app. 
-The second file is 'bloco_de_notas.py', this one has the main method called 'bloco_notas()'
+The second file is **bloco_de_notas.py**, this one has the main method called **bloco_notas()**
 which  start and controle the app execution fully.
 
 ### Running App
-To run this app you need to execute 'bloco_de_notas.py' file.
+To run this app you need to execute **bloco_de_notas.py** file.
 
 
 -------------
